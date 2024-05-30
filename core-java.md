@@ -1,7 +1,7 @@
-<h2>Technology List</h2>
+<h2>Core Java</h2>
 
 <ol>
-<li><a href="#core-java-home">Core Java</a></li>
+<li><a href="#java-8-features-home">Java-8 Features</a></li>
   <li><a href="#spring-home">Spring</a></li>
   <li><a href="#spring-boot-home">Spring Boot</a></li>
   <li><a href="#microservices-home">Microservices</a></li>
@@ -12,7 +12,7 @@
   <li><a href="#reactjs-home">Reactjs</a></li>
 </ol>
 
-<h2 id="core-java-home">Core Java</h2>
+<h2 id="java-8-features-home">Java-8 Features</h2>
 
 <h2 id="spring-home">Spring</h2>
 
